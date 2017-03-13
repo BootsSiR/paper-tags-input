@@ -1,6 +1,6 @@
 {
-  "name": "paper-tags-input",
-  "version": "1.2.5",
+  "name": "paper-tags-input-boots",
+  "version": "1.2.6",
   "authors": [
     "Tianxiang Zhang <cenhiangapply@gmail.com>"
   ],
@@ -13,7 +13,7 @@
   ],
   "main": "paper-tags-input.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/cheonhyangzhang/paper-tags-input/",
+  "homepage": "https://github.com/BootsSiR/paper-tags-input-boots/",
   "ignore": [
     "/.*",
     "/test/",
